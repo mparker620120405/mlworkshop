@@ -14,5 +14,5 @@ st.write("""
          """)
 
 
-df = pd.read_csv("C:/Users/Monique/Documents/data.csv")
+df = pd.read_csv("data.csv")
 st.line_chart(df)
